@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#F4F4F4"/>
+<rect x="66" y="38" width="380" height="436" rx="28" fill="#050505"/>
+<rect x="91" y="64" width="330" height="72" rx="7" fill="#FFFFFF"/>
+<text x="108" y="116" font-family="Arial,sans-serif" font-size="48" fill="#333333">123</text>
+<g fill="#F1F1F1">
+<rect x="87" y="166" width="70" height="52" rx="6"/><rect x="169" y="166" width="70" height="52" rx="6"/><rect x="251" y="166" width="70" height="52" rx="6"/><rect x="333" y="166" width="70" height="52" rx="6"/>
+<rect x="87" y="230" width="70" height="52" rx="6"/><rect x="169" y="230" width="70" height="52" rx="6"/><rect x="251" y="230" width="70" height="52" rx="6"/><rect x="333" y="230" width="70" height="52" rx="6"/>
+<rect x="87" y="294" width="70" height="52" rx="6"/><rect x="169" y="294" width="70" height="52" rx="6"/><rect x="251" y="294" width="70" height="52" rx="6"/><rect x="333" y="294" width="70" height="52" rx="6"/>
+<rect x="87" y="358" width="70" height="52" rx="6"/><rect x="169" y="358" width="70" height="52" rx="6"/><rect x="251" y="358" width="70" height="52" rx="6"/><rect x="333" y="358" width="70" height="52" rx="6"/>
+<rect x="87" y="422" width="70" height="34" rx="6"/><rect x="169" y="422" width="70" height="34" rx="6"/><rect x="251" y="422" width="70" height="34" rx="6"/><rect x="333" y="422" width="70" height="34" rx="6"/>
+</g>
+<g font-family="Arial,sans-serif" font-size="25" text-anchor="middle" dominant-baseline="central" fill="#111">
+<text x="122" y="192">(</text><text x="204" y="192">)</text><text x="286" y="192">%</text><text x="368" y="192">AC</text>
+<text x="122" y="256">7</text><text x="204" y="256">8</text><text x="286" y="256">9</text><text x="368" y="256">×</text>
+<text x="122" y="320">4</text><text x="204" y="320">5</text><text x="286" y="320">6</text><text x="368" y="320">−</text>
+<text x="122" y="384">1</text><text x="204" y="384">2</text><text x="286" y="384">3</text><text x="368" y="384">+</text>
+<text x="122" y="439">0</text><text x="204" y="439">⌫</text><text x="286" y="439">=</text><text x="368" y="439">÷</text>
+</g></svg>
